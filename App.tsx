@@ -130,8 +130,8 @@ const App: React.FC = () => {
                 <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center gap-4">
                     <LogoIcon className="h-10 w-10 text-indigo-600" />
                     <div>
-                        <h1 className="text-2xl font-bold text-gray-900">ブログアセット生成ツール</h1>
-                        <p className="text-sm text-gray-500">AIで記事のプロンプトと画像を生成</p>
+                        <h1 className="text-2xl font-bold text-gray-900">ブログ画像をかんたん作成 — Nano Banana</h1>
+                        <p className="text-sm text-gray-500">記事を貼るだけ。プロンプト生成から画像の作成・編集までブラウザで完結</p>
                     </div>
                 </div>
             </header>
